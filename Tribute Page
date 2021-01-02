@@ -1,0 +1,26 @@
+<script src="https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js"></script>
+<style>
+ img{
+  max-width: 100%;  
+  width: 100%;
+  height: auto;
+  display: block;
+}
+</style>
+
+<!-- 
+
+Hello Camper!
+
+Sophia :D
+-->
+<main id="main">
+  <h2 id="title">Langauge Learning</h2>
+  <div id="img-div">
+    <img id="image" src="https://i2.wp.com/www.europelanguagecafe.com/wp-content/uploads/2017/12/To-have-another-language-is-to-possess-a-second-soul-1.png"></img>
+  <div id="img-caption">The image is a quote from charlmegne about learning another language</div>
+  <p id="tribute-info">Learning another language helps grow the mind and the soul. Click on this link
+<a                                                                                                       href="https://www.leadwithlanguages.org/why-learn-languages/top-ten-reasons-to-learn-languages/" id="tribute-link" target="_blank"> language learning</a> is fun!</p>
+  
+  </div>
+</main>
